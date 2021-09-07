@@ -1,1 +1,1 @@
-# Exercice_Algo_2
+http://hebergement.u-psud.fr/iut-orsay/Pedagogie/MPHY/Python/exercices-python3.pdf
