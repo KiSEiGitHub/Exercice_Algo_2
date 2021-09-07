@@ -1,4 +1,4 @@
-from Cours5.Exercice1.parfait_chanceux_m import *
+from Cours5.parfait_chanceux_m import *
 
 
 def main():
